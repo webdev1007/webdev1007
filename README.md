@@ -12,6 +12,10 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 
 🎨 One of my favorite UI libraries is Ant Design. I’m genuinely obsessed with how elegant, consistent, and developer-friendly it is. Whether I’m building dashboards or internal tools, AntD helps me deliver polished and professional UIs effortlessly.
 
+🧠 I also enjoy working with PostgreSQL, one of the most powerful and reliable relational databases available. Its rich feature set including complex joins, window functions, CTEs (Common Table Expressions), and JSON support allows me to write highly expressive and efficient queries that go beyond the basics. Whether I’m designing normalized schemas or optimizing queries for performance, PostgreSQL gives me the flexibility and confidence to handle everything from simple lookups to advanced analytics.
+
+🖥️ I use Electron to build desktop apps using the same skills I use for websites. It’s amazing because with React, React Native, and Electron, I can create apps for web, mobile, and desktop, all with one set of tools.
+
 ## 🛠 Tech Stack
 - **Frontend:** React, React Native, Next, Vue, Nuxt, Redux, Redux-Thunk, Redux-Saga, Tailwind CSS, Ant Design
 - **Backend:** Node.js, Express, Ruby on Rails, PHP, Laravel, GraphQL, Socket.IO
