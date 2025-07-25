@@ -75,5 +75,5 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 
 ## 🗂️ Language Usage
 <div align="center">
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
