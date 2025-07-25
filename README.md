@@ -77,3 +77,15 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev1007&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🏅 GSSOC'24 Postman Challenge Badges
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" /></td>
+    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" /></td>
+  </tr>
+</table>
