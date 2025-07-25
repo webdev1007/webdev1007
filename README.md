@@ -4,7 +4,7 @@
 </div>
 
 
-I’m a full-stack developer with experience in React, React Native, Node.js, Postgres, MongoDB and AWS.  
+I’m a full-stack engineer with experience in React, React Native, Node.js, Postgres, MongoDB and AWS.  
 I enjoy building apps that solve real problems and have recently been focusing on performance optimization, scalable APIs, and clean UI.
 
 ## 🛠 Tech Stack
