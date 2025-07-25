@@ -9,6 +9,3 @@ I enjoy building apps that solve real problems and have recently been focusing o
 - **Database:** PostgreSQL, MongoDB 
 - **DevOps:** AWS
 - **Tools:** Git, VS Code, Postman, Figma
-
-### 📈 GitHub Stats
-![Ming's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
