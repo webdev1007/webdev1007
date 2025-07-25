@@ -75,7 +75,7 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 
 ## 🗂️ Language Usage
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev1007&hide=html&layout=compact&theme=dracula)](https://github.com/webdev1007/github-readme-stats)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=webdev1007&show_icons=true&theme=dracula)
 
 ## 🏅 GSSOC'24 Postman Challenge Badges
 
