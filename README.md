@@ -74,6 +74,6 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## 🗂️ Language Usage
-<div align="center">
-  ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizNeaime&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev1007&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
