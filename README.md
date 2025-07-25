@@ -3,7 +3,6 @@
   <h3>🚀 Full-Stack Engineer</h3>
 </div>
 
-
 I’m a full-stack engineer with experience in React, React Native, Node.js, Postgres, MongoDB and AWS.  
 I enjoy building apps that solve real problems and have recently been focusing on performance optimization, scalable APIs, and clean UI.
 
