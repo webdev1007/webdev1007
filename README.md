@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Soren Tian</h1>
+  <h1>Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> I'm Soren Tian</h1>
   <h3>🚀 Full-Stack Engineer</h3>
 </div>
 
