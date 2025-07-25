@@ -19,7 +19,8 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 ## 🛠 Tech Stack
 - **Frontend:** React, React Native, Next, Vue, Nuxt, Redux, Redux-Thunk, Redux-Saga, Tailwind CSS, Ant Design
 - **Backend:** Node.js, Express, Ruby on Rails, PHP, Laravel, GraphQL, Socket.IO
-- **Database:** PostgreSQL, MongoDB 
+- **Database:** PostgreSQL, MongoDB
+- **Desktop:** Electron, QT
 - **DevOps:** AWS
 - **Tools:** Git, VS Code, Postman, Figma
 
@@ -51,6 +52,7 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=Electron&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D32F2F?style=flat&logo=redis&logoColor=white)
 ![Crontab](https://img.shields.io/badge/Crontab-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
