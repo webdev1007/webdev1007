@@ -10,7 +10,7 @@ I’m a passionate Full-Stack Developer with over 8 years of experience building
 
 🚀 I also enjoy building robust, scalable backends using Node.js, Express, and Ruby on Rails, with a strong focus on clean code, maintainability, and solving real-world problems.
 
-🎨 One of my favorite UI libraries is Ant Design — I’m genuinely obsessed with how elegant, consistent, and developer-friendly it is. Whether I’m building dashboards or internal tools, AntD helps me deliver polished and professional UIs effortlessly.
+🎨 One of my favorite UI libraries is Ant Design. I’m genuinely obsessed with how elegant, consistent, and developer-friendly it is. Whether I’m building dashboards or internal tools, AntD helps me deliver polished and professional UIs effortlessly.
 
 ## 🛠 Tech Stack
 - **Frontend:** React, React Native, Next, Vue, Nuxt, Redux, Redux-Thunk, Redux-Saga, Tailwind CSS, Ant Design
